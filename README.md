@@ -1,1 +1,1 @@
-Calculus Problems Written in Python and TI-Basic
+Code to solve Calculus Problems Written in TI-Basic and Python
